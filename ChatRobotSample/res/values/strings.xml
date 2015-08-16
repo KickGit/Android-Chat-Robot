@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MiGu</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="showEdtHint">显示回复</string>
+    <string name="inputEdtHint">在这里输入</string>
+    <string name="send">发送</string>
+    <string name="inputNotEmpty">輸入不能為空</string>
+    <string name="tulingRobotKey">key</string>
+    <string name="tulingUserId">userid</string>
+    
+    <!-- Tuling Error Back -->
+    <string name="tuling40007">服务器数据格式异常</string>
+    <string name="tuling40006">服务器升级中</string>
+    <string name="tuling40005">暂不支持该功能</string>
+    <string name="tuling40004">当天请求次数已用完</string>
+    <string name="tuling40003">key错误或帐号未激活</string>
+    <string name="tuling40002">请求内容为空</string>
+    <string name="tuling40001">key的长度错误（32位）</string>
+    
+</resources>
